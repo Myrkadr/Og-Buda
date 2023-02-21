@@ -14,3 +14,38 @@ background-attachment: fixed;
 -o-background-size: cover;
 background-size: cover;
 }
+ #navbar {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        width: 125px;
+      }
+      #navbar li {
+        border-bottom: 1px solid #666;
+      }
+      #navbar a {
+        background-color: #593c84;
+        color: #fff;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: bold;
+        border-left: 0px solid #33ADFF;
+        display: block;}
+#boy{
+color:white;
+text-align:center;
+width:500px;
+position:relative;
+left:25px;
+top:-125px;
+margin-left:auto;
+margin-right:auto;
+}
+.legend{
+
+position:relative;
+left:795px;
+bottom:350px;
+margin-left:auto;
+margin-right:auto;
+}
