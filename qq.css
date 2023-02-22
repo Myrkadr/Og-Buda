@@ -44,7 +44,7 @@ align:center;
 
 position:relative;
 left:795px;
-bottom:350px;
+bottom:450px;
 margin-left:auto;
 margin-right:auto;
 }
@@ -52,7 +52,7 @@ margin-right:auto;
 
 position:relative;
 left:-205px;
-bottom:275px;
+bottom:425px;
 margin-left:auto;
 margin-right:auto;
 }
@@ -60,7 +60,14 @@ margin-right:auto;
 
 position:relative;
 left:-360px;
-bottom:100px;
+bottom:250px;
 margin-left:auto;
 margin-right:auto;
-} 
+}
+.negr{
+position:relative;
+left:275px;
+bottom:25px;
+margin-left:auto;
+margin-right:auto;
+}
