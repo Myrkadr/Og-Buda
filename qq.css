@@ -128,9 +128,9 @@ top:-125px;
 align:center;
 }
 #alb{
-background-image: linear-gradient(to right,#b0b0b1, 
+background-image: linear-gradient(to 
 
-#a560b5);
+right,#b0b0b1, #a560b5);
 text-align:center;
 width:400px;
 position:relative;
@@ -195,5 +195,52 @@ color:white;
 filter:blur(0px);
 transition:2s;
 }
+#textik2{
+filter:blur(10px);
+text-align:center;
+width:150px;
+position:relative;
+left:425px;
+top:-335px;
+align:center;
+}
+#textik2:hover{
+color:white;
+filter:blur(0px);
+transition:2s;
+}
+#textik3{
+filter:blur(10px);
+text-align:center;
+width:150px;
+position:relative;
+left:590px;
+top:-450px;
+align:center;
+text-decorarion:none;
+}
+#textik3:hover{
+color:white;
+filter:blur(0px);
+transition:2s;
+}
+.hide{
+display: none;
+}
+.block span{
+ cursor: pointer;
+}
+.new{
+background-image: linear-gradient(to 
 
+right,#b0b0b1, #a560b5);
+}
 
+.block{
+text-align:center;
+width:400px;
+position:relative;
+left:275px;
+top:-400px;
+align:center;
+}
